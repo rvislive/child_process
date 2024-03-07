@@ -1,0 +1,21 @@
+{
+  "name": "child_process",
+  "version": "1.0.0",
+  "description": "To understand child process",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rvislive/child_process.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rvislive/child_process/issues"
+  },
+  "homepage": "https://github.com/rvislive/child_process#readme"
+}
